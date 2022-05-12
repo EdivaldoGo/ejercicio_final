@@ -1,24 +1,38 @@
 Parte 3
-Escribe en la terminal 
+Escribe en la terminal
 
 echo Parte3 ***************************************************
 
 Contesta las siguientes preguntas
 
-1. Que es SCRUM?
+1. ¿Qué es SCRUM?
 
-2. Cual Rol dentro de SCRUM te llama mas la atención y porque?
+Es un marco de trabajo simple que promueve la colaboración en los equipos para lograr desarrollar productos complejos.
 
-3. Cual es la herramienta que mas recuerdas de SCRUM?
+2. ¿Cuál Rol dentro de SCRUM te llama más la atención y porque?
 
-4. Cual es la diferencia entre el PO y el SCRUM MASTER?
+El rol del scrum Master me parece un papel fundamental en esta metodología y considero que yo podría tener un buen desempeño en ese puesto.
+No obstante, como primera aproximación a la metodología preferiría estar en un rol del equipo de desarrollo.
 
-5. Cuanto puede durar un Sprint?
+3.¿Cuál es la herramienta que más recuerdas en SCRUM?
 
-6. Consideras que la junta de retrospectiva es importante? porque?
+Recuerdo el uso de tableros en herramientas digitales como trello y el panel de Github.
+Considero que el uso del tablero es la herramienta más importante.
+
+4. ¿Cuál es la diferencia entre el PO y el SCRUM MASTER?
+
+El PRODUCT OWNER se encarga de la parte comercial y procura maximizar el valor del producto.
+Por el contrario, el SCRUM MASTER tiene la tarea de facilitar al equipo de desarrollo lo necesario para no detener el avance del proyecto.
+
+5. ¿Cuánto puede durar un Sprint?
+
+La duración esta sujeta a la madurez del equipo. Pero el tiempo regular es de 1 a 4 semanas.
+
+6.¿Consideras que la junta de retrospectiva es importante? ¿Por que?
+
+Sí es importante ya que se analizan las actividades anteriores a la junta, se inspeccionan los resultados y se identifican posibles mejoras.
 
 
 Cuando termines haz un merge de personal info a este branch
-de tal suerte que este archivo debe contener la Parte 2 y 3 juntas 
+de tal suerte que este archivo debe contener la Parte 2 y 3 juntas
 Muevete a la rama git_github
-
